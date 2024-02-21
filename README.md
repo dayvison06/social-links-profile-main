@@ -1,9 +1,13 @@
 # Frontend Mentor - Social links profile
 
 # Preview
+
+Link de acesso: https://dayvison06.github.io/social-links-profile-main/
+
 ![Design result](./design/social-links-profile-main_Dayvison.jpg)
 
 Projeto realizado
+#
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
