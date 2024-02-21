@@ -1,8 +1,9 @@
 # Frontend Mentor - Social links profile
 
-# Result:
+# Preview
 ![Design result](./design/social-links-profile-main_Dayvison.jpg)
 
+Projeto realizado
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
