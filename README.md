@@ -1,7 +1,8 @@
 # Frontend Mentor - Social links profile
 
 # Result:
-![Design preview for the Social links profile coding challenge](./design/social-links-profile-main_Dayvison.jpg)
+![Design result](./design/social-links-profile-main_Dayvison.jpg)
+
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
