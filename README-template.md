@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./design/css/social-links-profile-main.jpg)
+![](./design/social-links-profile-main.jpg)
 
 ### Links
 
