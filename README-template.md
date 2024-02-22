@@ -13,7 +13,7 @@ Projeto  Social links profile realizado para aprendizado de HTML e CSS.
 
 ### Links
 
-- Live Site URL: [](https://dayvison06.github.io/social-links-profile-main/)
+- Live Site URL: [https://dayvison06.github.io/social-links-profile-main/](https://dayvison06.github.io/social-links-profile-main/)
 
 ### Built with
 
